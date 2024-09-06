@@ -3,7 +3,7 @@
 
 I am a programmer. I've built full stack web applications, trained AI models, completed a [TensorFlow Developer Certificate](https://www.coursera.org/account/accomplishments/professional-cert/9L3MSPXBWHJH), programmed PLCs, and have a strong foundation in electric circuits. 
 
-[Link to Resume](https://github.com/ehlowe/ehlowe/blob/main/Resume_9_4.pdf)
+[Link to Resume](https://github.com/ehlowe/ehlowe/blob/main/Ethan_Lowe_Resume_9-4.pdf)
 <br>
 
 <br>
